@@ -11,10 +11,10 @@ Este repositório contém sete algoritmos básicos em Java, com foco em manipula
     * Imprime a lista de nomes ordenada.
 
 2. **NomesDecrescente:**
-    * Recebe 20 nomes como entrada do usuário.
-    * Armazena os nomes em um array.
-    * Ordena os nomes em ordem alfabética decrescente utilizando `Arrays.sort()` e `Collections.reverseOrder()`.
-    * Imprime a lista de nomes ordenada.
+   * Recebe 20 nomes como entrada do usuário.
+   * Armazena os nomes em um array.
+   * Ordena os nomes em ordem alfabética decrescente utilizando o algoritmo Bubble Sort.
+   * Imprime a lista de nomes ordenada.
 
 3. **NumerosCrescente:**
     * Recebe 50 números como entrada do usuário.
@@ -23,10 +23,10 @@ Este repositório contém sete algoritmos básicos em Java, com foco em manipula
     * Imprime a lista de números ordenada.
 
 4. **NumerosDecrescente:**
-    * Recebe 50 números como entrada do usuário.
-    * Armazena os números em um array.
-    * Ordena os números em ordem decrescente utilizando `Arrays.sort()` e `Collections.reverseOrder()`.
-    * Imprime a lista de números ordenada.
+   * Recebe 50 números como entrada do usuário.
+   * Armazena os números em um array.
+   * Ordena os números em ordem decrescente utilizando o algoritmo Bubble Sort.
+   * Imprime a lista de números ordenada.
 
 5. **NumerosPares:**
     * Recebe 100 números como entrada do usuário.
