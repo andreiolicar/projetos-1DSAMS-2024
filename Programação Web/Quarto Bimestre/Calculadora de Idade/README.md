@@ -8,15 +8,18 @@ Este repositório contém uma calculadora de idade simples e intuitiva desenvolv
 *Animações: Inclui animações sutis para tornar a experiência mais agradável.
 *Responsividade: Adapta-se a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.
 *Botão "Calcular Novamente": Permite que o usuário reinicie a calculadora e faça um novo cálculo.
+
 ##Como executar a calculadora:##
 
 *Faça o download ou clone este repositório.
 *Abra o arquivo index.html em seu navegador web.
+
 ##Tecnologias utilizadas:##
 
 *HTML
 *CSS
 *JavaScript
+
 ##Observações:##
 
 *O projeto inclui imagens que devem estar na pasta "imagens" para que a calculadora funcione corretamente.
