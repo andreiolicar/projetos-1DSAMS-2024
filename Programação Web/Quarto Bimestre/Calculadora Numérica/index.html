@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calculadora</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="calculadora">
+        <input type="text" class="display" id="display" readonly>
+        <div class="botoes">
+            <button class="operador" onclick="limpar()">C</button>
+            <button class="operador" onclick="apagar()">CE</button>
+            <button class="operador" onclick="inserir('/')">/</button>
+            <button class="operador" onclick="inserir('*')">*</button>
+            <button onclick="inserir('7')">7</button>
+            <button onclick="inserir('8')">8</button>
+            <button onclick="inserir('9')">9</button>
+            <button class="operador" onclick="inserir('-')">-</button>
+            <button onclick="inserir('4')">4</button>
+            <button onclick="inserir('5')">5</button>
+            <button onclick="inserir('6')">6</button>
+            <button class="operador" onclick="inserir('+')">+</button>
+            <button onclick="inserir('1')">1</button>
+            <button onclick="inserir('2')">2</button>
+            <button onclick="inserir('3')">3</button>
+            <button class="igual" onclick="calcular()">=</button>
+            <button onclick="inserir('0')">0</button>
+            <button onclick="inserir('.')">.</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
